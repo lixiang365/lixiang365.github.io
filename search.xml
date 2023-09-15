@@ -31,7 +31,7 @@
     
     
     <entry>
-      <title>rust 数据类型的内存布局</title>
+      <title>rust 数据结构的内存布局</title>
       <link href="/post/655fcddc.html"/>
       <url>/post/655fcddc.html</url>
       
@@ -40,9 +40,9 @@
       
       <categories>
           
-          <category> rust专题 </category>
-          
           <category> rust基础 </category>
+          
+          <category> rust专题 </category>
           
       </categories>
       

@@ -46,7 +46,7 @@
   </entry>
   
   <entry>
-    <title>rust 数据类型的内存布局</title>
+    <title>rust 数据结构的内存布局</title>
     <link href="https://lixiang365.github.io/post/655fcddc.html"/>
     <id>https://lixiang365.github.io/post/655fcddc.html</id>
     <published>2023-08-31T12:47:00.000Z</published>
@@ -65,9 +65,9 @@
     
     
     
-    <category term="rust专题" scheme="https://lixiang365.github.io/categories/rust%E4%B8%93%E9%A2%98/"/>
+    <category term="rust基础" scheme="https://lixiang365.github.io/categories/rust%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="rust基础" scheme="https://lixiang365.github.io/categories/rust%E4%B8%93%E9%A2%98/rust%E5%9F%BA%E7%A1%80/"/>
+    <category term="rust专题" scheme="https://lixiang365.github.io/categories/rust%E5%9F%BA%E7%A1%80/rust%E4%B8%93%E9%A2%98/"/>
     
     
     <category term="rust内存布局" scheme="https://lixiang365.github.io/tags/rust%E5%86%85%E5%AD%98%E5%B8%83%E5%B1%80/"/>
