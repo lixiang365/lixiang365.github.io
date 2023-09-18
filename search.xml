@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>python热更思路</title>
+      <title>Python热更思路</title>
       <link href="/post/1654ffe7.html"/>
       <url>/post/1654ffe7.html</url>
       
@@ -13,14 +13,14 @@
       
       <categories>
           
-          <category> python专栏 </category>
+          <category> Python专栏 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> python </tag>
+            <tag> Python </tag>
             
             <tag> 热更 </tag>
             
@@ -31,7 +31,7 @@
     
     
     <entry>
-      <title>rust 数据结构的内存布局</title>
+      <title>Rust 数据结构的内存布局</title>
       <link href="/post/655fcddc.html"/>
       <url>/post/655fcddc.html</url>
       
@@ -40,18 +40,18 @@
       
       <categories>
           
-          <category> rust基础 </category>
+          <category> Rust基础 </category>
           
-          <category> rust专题 </category>
+          <category> Rust专题 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> rust内存布局 </tag>
+            <tag> Rust内存布局 </tag>
             
-            <tag> rust </tag>
+            <tag> Rust </tag>
             
         </tags>
       
